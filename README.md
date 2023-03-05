@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-aqeel-afzal-0517791b6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-aqeel-afzal-0517791b6" height="30" width="40" /></a>
-  [[https://github.com/M-Aqeel-Afzal/My-Resume](https://linkedin.com/in/www.linkedin.com/in/muhammad-aqeel-afzal-0517791b6)]([https://github.com/M-Aqeel-Afzal/My-Resume](https://linkedin.com/in/www.linkedin.com/in/muhammad-aqeel-afzal-0517791b6))
+  [https://github.com/M-Aqeel-Afzal/My-Resume](https://linkedin.com/in/www.linkedin.com/in/muhammad-aqeel-afzal-0517791b6]([https://github.com/M-Aqeel-Afzal/My-Resume](https://linkedin.com/in/www.linkedin.com/in/muhammad-aqeel-afzal-0517791b6)
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/aqeelafzal958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aqeelafzal958" height="30" width="40" /></a>
 </p>
 
